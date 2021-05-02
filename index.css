@@ -168,7 +168,7 @@ cursor: pointer;
     line-height: 1.5;
 }
 .bg-image-2{
-    background-image: url("./img1.jpg");
+    background-image: url("./Images/img1.jpg");
     padding-top: 100px;   
 }
 .banner-1{
@@ -292,7 +292,7 @@ cursor: pointer;
     position:relative;
     justify-content: center;
     align-items: center;
-    background-image: url("./images/bagpacks.png");
+    background-image: url("./Images/bagpacks.png");
     border: 1px solid rgba(128, 128, 128, 0.849);
     padding: 8px 16px;
     cursor: pointer;
@@ -331,7 +331,7 @@ color:#6EBDEE;
     position:relative;
     justify-content: center;
     align-items: center;
-    background-image: url("./images/badmiton1.jpeg");
+    background-image: url("./Images/badmiton1.jpeg");
     border: 1px solid rgba(128, 128, 128, 0.849);
     cursor:pointer;
 }
@@ -344,7 +344,7 @@ color:#6EBDEE;
     position:relative;
     justify-content: center;
     align-items: center;
-    background-image: url("./images/camping-tent.jpg");
+    background-image: url("./Images/camping-tent.jpg");
     border: 1px solid rgba(128, 128, 128, 0.849);
     padding: 8px 16px;
     cursor:pointer;
